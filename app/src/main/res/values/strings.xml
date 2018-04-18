@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="Title_head">TITLE</string>
+    <string name="release_date">Release date</string>
+    <string name="top_rated">Top Rated </string>
+    <string name="up_coming">Up coming </string>
+    <string name="popular">Popular</string>
+    <string name="over_view">OverView</string>
+    <string name="rating">Rating</string>
+    <string name="button_name">Add To favourite</string>
+    <string name="fav_movie">Favourite Movies</string>
+    <string name="next"> -> </string>
+    <string name="prev"> - </string>
+</resources>

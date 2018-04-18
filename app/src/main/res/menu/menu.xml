@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popular_movies"
+        android:orderInCategory="100"
+        android:title="@string/popular"
+
+
+        />
+    <item
+        android:id="@+id/top_rated_movies"
+        android:orderInCategory="101"
+        android:title="@string/top_rated"
+
+
+        />
+    <item
+        android:id="@+id/upcoming_movies"
+        android:orderInCategory="102"
+        android:title="@string/up_coming" />
+
+    <item
+        android:id="@+id/favourit_movies"
+        android:orderInCategory="102"
+        android:title="favourite" />
+
+
+</menu>
